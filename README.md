@@ -1,2 +1,3 @@
-# react-boilerplate
-react, material-ui, apollo
+# react-boilerplace
+
+react, apollo, material-ui, notisack, react-scripts,
